@@ -1,0 +1,16 @@
+1.	Database MySQL
+	a.	Please import the sql dump file provided in the "Database - MySQL" folder. (Schema - fortinet, Tables - restaurants,restaurant_address)
+
+2.	Backend Python(Flask) - version 3.6
+	a.	Please run the command in Terminal
+		pip3 install flask flask-cors pymysql
+	b.	After successful installation, please navigate to the "Backend - Python" folder and run "python service.py" in Terminal
+
+3.	Frontend VueJS(Nuxt)
+	a.	Please install Nodejs and npm in the machine.
+	b.	Navigate to "Frontend - Vue JS\fortinet" and run the following commands
+		npm install
+		npm run dev
+	c.	Please access the website in browser in "http://localhost:3000"
+
+4.	Screenshots are provided in "Screenshots" folder.
